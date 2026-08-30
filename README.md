@@ -5,7 +5,7 @@ The official code used in article "Morphometric Explanations for Deep Learning B
 
 ## Citation
 
-If you found this work to be useful for your research, please cite our [paper](https://doi.org/10.1002/hbm.70633).
+If you found this work useful, please cite our [research article](https://doi.org/10.1002/hbm.70633).
 
 ```
 @article{https://doi.org/10.1002/hbm.70633,
