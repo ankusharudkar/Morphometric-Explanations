@@ -23,3 +23,5 @@ note = {e70633 1346461},
 year = {2026}
 }
 ```
+
+If you are adapting this code for your own research, please feel free to reach out at [email](ankush.gajananarudkar@adelaide.edu.au) or start a discussion on GitHub. I would be happy to help explain the architecture implementation.
